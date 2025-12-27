@@ -1,7 +1,6 @@
+<meta name="google-site-verification" content="sd9vrai3PIlPbkd2mvczky_LodjDn5i8XuxwbtABZjc" />
 # Brand-Studio-Checklist by Rare Ideas
 Readiness checklist to help you (and your brand) get the most out of the partnership
-
-<meta name="google-site-verification" content="sd9vrai3PIlPbkd2mvczky_LodjDn5i8XuxwbtABZjc" />
 
 This framework is created and maintained by Rare Ideas
 https://rareideas.in
