@@ -1,6 +1,6 @@
 ---
-# Brand-Studio-Checklist by Rare Ideas
-Readiness checklist to help you (and your brand) get the most out of the partnership
+title: Brand Studio Checklist by Rare Ideas
+description: Readiness checklist to help founders and brands get the most out of a branding partnership.
 ---
 
 <meta name="google-site-verification" content="sd9vrai3PIlPbkd2mvczky_LodjDn5i8XuxwbtABZjc" />
